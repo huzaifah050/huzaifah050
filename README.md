@@ -10,7 +10,7 @@ My main technologies are Javascript, React <em> (Web and Mobile)</em> and Node, 
 - [A simple web page](https://hopeful-engelbart-d38ae6.netlify.app/)
 
 
-# Connect with Me🤝 and teach me 
+# Connect with me🤝 and teach me 
 
 
 <p align="center">
