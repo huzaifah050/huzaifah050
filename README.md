@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am Huzaifah Yusif-Attah and I love to learn, code and teach.
+
+My main technologies are Javascript, React (Web and Mobile) and Node, and I am currently working on a P2P money transfer solution as a final bootcamp project.
+
+## Some Projects I have worked on
+
+- [A twitter clone](https://elated-bassi-e2fb8d.netlify.app/)
+- [A simple web page](https://hopeful-engelbart-d38ae6.netlify.app/)
+
+
+## Connect with Me🤝
+
+- [Twitter](https://twitter.com/umfrumf)
+- [Gmail](hhuzaifah050@gmail.com)
+
+
+
 
 <!--
 **huzaifah050/huzaifah050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
