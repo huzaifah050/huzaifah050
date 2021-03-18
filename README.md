@@ -1,8 +1,8 @@
-### Hi there 👋 
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 I am Huzaifah Yusif-Attah and I love to learn, code and teach.
 
-My main technologies are Javascript, React (Web and Mobile) and Node, and I am currently working on a P2P money transfer solution as a final bootcamp project.
+My main technologies are Javascript, React <em> (Web and Mobile)</em> and Node, and I am currently working on a P2P money transfer solution as a final bootcamp project.
 
 ## Some Projects I have worked on
 
@@ -10,10 +10,18 @@ My main technologies are Javascript, React (Web and Mobile) and Node, and I am c
 - [A simple web page](https://hopeful-engelbart-d38ae6.netlify.app/)
 
 
-## Connect with Me🤝
+# Connect with Me🤝 and teach me 
 
-- [Twitter](https://twitter.com/umfrumf)
-- [Gmail](hhuzaifah050@gmail.com)
+
+<p align="center">
+  <a href="https://github.com/huzaifah050">
+    <img src="https://img.shields.io/twitter/follow/umfrumf?label=Twitter&logo=twitter&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/umfrumf">
+    <img src="https://img.shields.io/github/followers/huzaifah050?label=Followers&logo=GitHub&style=for-the-badge" />
+  </a>
+</p>
+
 
 
 
