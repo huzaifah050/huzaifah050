@@ -4,7 +4,7 @@ I am Huzaifah Yusif-Attah and I love to learn, code and teach.
 
 My main technologies are Javascript, React <em> (Web and Mobile)</em> and Node, and I am currently working on a P2P money transfer solution as a final bootcamp project.
 
-<h2 align="left"> I am currently on the look for intern positions and junior developer roles. I am ready to learn which ever tech stack you use.</h2>
+<h2 align="left"> I am currently on the look for developer roles. I am ready to learn which ever tech stack you use.</h2>
 
 ## Some Projects I have worked on
 
