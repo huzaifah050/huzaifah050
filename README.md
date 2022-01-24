@@ -1,19 +1,15 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-I am Huzaifah Yusif-Attah and I love to learn, code and teach.
+I am Huzaifah Yusif-Attah and I love to learn, solve problems and teach. I am passionate about user experience and always strives to develop for the least sophisticated user.
 
-My main technologies are Javascript, React <em> (Web and Mobile)</em> and Node, and I am currently working on a P2P money transfer solution as a final bootcamp project.
+- 🔭 I’m currently working at Hutbel
+- 🌱 I’m currently learning how to build build tools like Webpack/Esbuild with GO
+- 👯 I’m looking to collaborate on all kinds of projects the seeks to solve exciting problems
+- 🤔 I’m looking for help with how compilers/transpilers work
+- 💬 Ask me about Frontend technologies, especially the React ecosystem
+- ⚡ Fun fact: I like human beings
 
-<h2 align="left"> I am currently on the look for developer roles. I am ready to learn which ever tech stack you use.</h2>
-
-## Some Projects I have worked on
-
-- [A twitter clone](https://elated-bassi-e2fb8d.netlify.app/)
-- [A simple web page](https://hopeful-engelbart-d38ae6.netlify.app/)
-
-
-# Connect with me🤝 and teach me 
-
+<h2>Connect with me 🤝 and teach me </h2>
 
 <p align="center">
   <a href="https://github.com/huzaifah050">
