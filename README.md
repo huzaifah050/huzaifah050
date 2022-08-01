@@ -2,7 +2,7 @@
 
 I am Huzaifah Yusif-Attah and I love to learn, solve problems and teach. I am passionate about user experience and always strives to develop for the least sophisticated user.
 
-- 🔭 I’m currently working at Hutbel
+
 - 🌱 I’m currently learning how to build build tools like Webpack/Esbuild with GO
 - 👯 I’m looking to collaborate on all kinds of projects the seeks to solve exciting problems
 - 🤔 I’m looking for help with how compilers/transpilers work
